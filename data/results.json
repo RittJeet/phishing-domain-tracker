@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "facebook-security.com",
+    "score": 50,
+    "risk": "MEDIUM",
+    "reasons": [
+      "TIER1 brand impersonation detected: facebook",
+      "Contains keyword: security"
+    ]
+  }
+]
